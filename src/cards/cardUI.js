@@ -9,7 +9,10 @@ return(
         </div>
         <div className="card-body text-dark">
         <h4 className="card-title">Card Title</h4>
-        <p className="card-text text-secondary"></p>
+        <p className="card-text text-secondary">
+            Lorem some text here
+        </p>
+        <a href="#" className="btn btn-outline-success">Press Me</a>
         </div>
     </div>
 )

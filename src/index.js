@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Card from "./cards/cardUI.js"
+import Card from "./cards/cards.js"
 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
